@@ -1,4 +1,4 @@
-<img width="950" height="300" alt="Google AI Mode scraper" src="https://github.com/user-attachments/assets/ea592cbd-7aca-4f5b-a0be-8d5076807022" />
+![<img width="950" height="300" alt="Google AI Mode scraper" src="https://github.com/user-attachments/assets/ea592cbd-7aca-4f5b-a0be-8d5076807022" />](https://serpapi.com/?utm_source=github_google_ai_mode_scraper)
 
 Google AI Mode Scraper - A tool to scrape Google's AI Mode search results with a simple API. Get AI-generated answers, text blocks, references, shopping results, local results, and support for multi-turn conversations.
 

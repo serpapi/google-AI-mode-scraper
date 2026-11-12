@@ -162,10 +162,10 @@ Text block types include: `paragraph`, `heading`, `list`, `table`, `code_block`
 ## Use cases
 Here are some use cases for the Google AI Mode API:
 
-- Build AI-powered search interfaces with conversational capabilities.
+- Compare AI Mode answers across locations and languages with `location`, `gl`, and `hl`.
 - Monitor how Google's AI responds to queries about your brand or products.
-- Create research tools that leverage AI-generated summaries.
-- Build chatbots that use Google's AI Mode for information retrieval.
+- Track how AI Mode answers to your keywords change over time.
+- Compare the sources AI Mode cites with the top organic results for the same query.
 - Track which sources Google's AI cites for SEO research.
 - Create competitive intelligence tools analyzing AI responses.
 
